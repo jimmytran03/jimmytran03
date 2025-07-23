@@ -1,6 +1,9 @@
+# 👋 Hi, I'm **Jimmy Tran**
 
-👋 Hi there, I am Jimmy Tran
-👀 I am interested in basketball and solving problems
-🌱 I’m currently learning to eventually become a financial data scientist!
-📫 How to reach me ; https://www.linkedin.com/in/jimmy-tran-2745401b1/
+🎯 Aspiring Data Scientist | Problem Solver | Basketball Enthusiast
 
+👀 I'm passionate about **basketball** and **solving problems**  
+🌱 I'm currently learning to become a **financial data scientist**  
+📫 **Connect with me** on [LinkedIn](https://www.linkedin.com/in/jimmy-tran-2745401b1/)
+
+💻 Tools: Python, Pandas, Jupyter, SQL, Git, VSCode
