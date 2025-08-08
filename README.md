@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Jimmy Tran**
 
-🎯 Software Engineer | Problem Solver | Basketball Enthusiast
+🎯 Software Engineer | Problem Solver 
 
 👀 I'm passionate about **basketball** and **solving problems**  
 🌱 I'm currently learning to become a **software engineer**  
